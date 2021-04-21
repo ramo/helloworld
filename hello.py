@@ -14,6 +14,7 @@ class Ramo:
 
 
 if __name__ == '__main__':
+    print('Testing Python classes')
     r = Ramo('Python')
     r.do_program()
     r.set_language('Java')
